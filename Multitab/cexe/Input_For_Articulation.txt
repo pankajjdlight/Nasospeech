@@ -1,0 +1,6 @@
+
+MouseStartPosition	0.0
+MouseEndPosition	Infinity
+StartSample-->	0
+endSample-->
+2147483647
